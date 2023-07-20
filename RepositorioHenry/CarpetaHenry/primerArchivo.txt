@@ -1,0 +1,8 @@
+===============Ejercicio 01=======================
+mkdir RepositorioHenry
+===============Ejercicio 02================================
+cd RepositorioHenry
+mkdir CarpetaHenry
+===============Ejercicio 03 y 04================================
+cd CarpetaHenry
+touch primerArchivo.txt
